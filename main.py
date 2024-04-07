@@ -1,0 +1,10 @@
+name = ('Habib Nurmagamedov')
+print(name[6])
+print(name[:7])
+print(name[1])
+print(name[-1:])
+print(name[3:6])
+print(name[::-1])
+print(len(name))
+print('Arzum' + ' Bagirov')
+
